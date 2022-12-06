@@ -1,0 +1,32 @@
+*{
+	text-align: center;
+	color:ghostwhite;
+	background-color: dimgray;
+	padding-top: 20px;
+	font-size: 25px;
+}
+button{
+	padding-top: 2px;
+	padding-bottom: 2px;
+	padding-right: 2px;
+	padding-left: 2px;
+	font-weight: bold;
+	border-radius: 5px;
+	font-family: cursive;
+	font-size: 18px;
+
+}
+
+#decrement{
+	color: darkred;
+}
+
+#increment{
+	color: darkgreen;
+}
+#reset{
+	color: darkorange;
+}
+#result {
+	color: black;
+}
